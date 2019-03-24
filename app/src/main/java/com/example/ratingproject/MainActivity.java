@@ -15,6 +15,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+// MANDATORY 1 ANDROID APP, Course Rating App - Michael Kongsgaard Jensen
+
 public class MainActivity extends AppCompatActivity {
 
     EditText editRelevans, editPerformance, editPrep, editFeedback, editExamples, editJob;
