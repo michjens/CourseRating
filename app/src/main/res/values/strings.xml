@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RatingProject</string>
+    <string name="submit">submit</string>
+    <string name="editPerformance">Teacher performance</string>
+    <string name="teacherPrep" />
+    <string name="subjectRelevans" />
+    <string name="teacherPerformance" />
+    <string name="feedback" />
+    <string name="examples" />
+    <string name="jobOpportunities" />
+
+    <string name="course" />
+    <string name="mail">Send Mail</string>
+    <string name="back">back</string>
+    <string name="oldResult" />
+    <string name="result" />
+    <string name="response" />
+    <string name="emailTemp" />
+
+</resources>
